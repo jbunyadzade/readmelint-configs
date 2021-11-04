@@ -1,0 +1,1 @@
+# readmelint-configs
