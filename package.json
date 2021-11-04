@@ -1,0 +1,19 @@
+{
+  "name": "@jbunyadzade/readmelint-configs",
+  "version": "1.0.0",
+  "description": "markdownlint custom configs and rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbunyadzade/readmelint-configs.git"
+  },
+  "author": "jbunyadzade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbunyadzade/readmelint-configs/issues"
+  },
+  "homepage": "https://github.com/jbunyadzade/readmelint-configs#readme"
+}
